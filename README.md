@@ -1,2 +1,2 @@
 # flutter-projects
-Flutter Projects
+Flutter project number 1. Quiz app
